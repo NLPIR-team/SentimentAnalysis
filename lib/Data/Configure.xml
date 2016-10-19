@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="GB2312"?>
+<NLPIR>
+	<TagSet>ICTPOS.map</TagSet>
+	<UserDict>on</UserDict>
+	<UserDictPrior>Off</UserDictPrior>
+	<FieldDict>on</FieldDict>
+	<GranularityContorl>off</GranularityContorl>
+	<Log>On</Log>
+	<version>2013</version>
+	<Modify>2012-11-14</Modify>
+	<Lexicon>2012-11-14</Lexicon>
+	<Sentiment>On</Sentiment>
+	<adaptive>true</adaptive>
+	<author>kz</author>
+	<Contact>pipy_zhang@msn.com</Contact>
+</NLPIR>
